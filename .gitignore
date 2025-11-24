@@ -1,9 +1,29 @@
+# Environment variables
 .env
+.env.*
+*.env
+
+# Python cache
 __pycache__/
 *.pyc
-*.log
+*.pyo
+*.pyd
+*.pyd
 *.db
 *.sqlite
-.env*
+*.log
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+.ENV/
+
+# Editors
 .vscode/
 .idea/
+
+# System files
+.DS_Store
+Thumbs.db
