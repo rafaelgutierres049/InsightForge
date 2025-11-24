@@ -17,7 +17,7 @@ O sistema foi projetado como uma solução de **Engenharia de IA aplicada**, uti
 # Demonstração
 
 - **Upload**
-<img src="prints/BlobUploadFiles.gif" width="600">
+<img src="prints/BlobUploadFile.gif" width="600">
 
 - **Listagem/Exclusão**
 <img src="prints/BlobFiles.png" width="600">
