@@ -148,7 +148,6 @@ Componente que coordena todo o fluxo:
 
 ```bash
 git clone https://github.com/rafaelgutierres049/InsightForge
-cd insightforge
 pip install -r requirements.txt
 ```
 ## Configuração do Ambiente
