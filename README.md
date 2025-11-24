@@ -147,7 +147,7 @@ Componente que coordena todo o fluxo:
 # Instalação
 
 ```bash
-git clone https://github.com/seuusuario/insightforge
+git clone https://github.com/rafaelgutierres049/InsightForge
 cd insightforge
 pip install -r requirements.txt
 ```
