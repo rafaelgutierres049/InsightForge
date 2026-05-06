@@ -16,12 +16,15 @@ Built as an applied AI engineering solution using the full Azure AI stack:
 ## Demo
 
 **Upload**
+<br>
 <img src="prints/BlobUploadFile.gif" width="600">
 
 **Document Management**
+<br>
 <img src="prints/BlobFiles.png" width="600">
 
 **RAG Chat**
+<br>
 <img src="prints/ChatRAG.gif" width="600">
 
 ---
