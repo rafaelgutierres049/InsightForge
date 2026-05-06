@@ -1,29 +1,37 @@
-# Environment variables
+# Environment
 .env
-.env.*
 *.env
 
-# Python cache
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
-*.pyd
-*.db
-*.sqlite
-*.log
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
 
-# Virtual environment
-venv/
+# Virtual environments
 .venv/
+venv/
 env/
-ENV/
-.ENV/
 
-# Editors
-.vscode/
-.idea/
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
 
-# System files
+# OS
 .DS_Store
 Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
